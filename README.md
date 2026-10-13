@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Russo+One&weight=400&size=58&pause=450&color=FF6B00&center=true&vCenter=true&width=1200&height=140&lines=PALWORLD+HACK+2026;GOD+MODE+%7C+INFINITE+PALS;DOMINATE+PALPAGOS" alt="Palworld Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/338a1bc8-ef69-465e-b576-2a9dd7f6253c" />
 
 <br/>
 
